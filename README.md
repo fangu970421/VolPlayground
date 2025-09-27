@@ -9,14 +9,6 @@ The notebook provides:
 - Explanations of stochastic volatility and model calibration concepts.
 
 
-## Requirements
-
-numpy
-matplotlib
-ipywidgets
-scipy
-
-
 ## Interactive Demo
 
 Since GitHub provides a static view of notebooks, the interactive widgets will not work directly on the GitHub website. To run the fully interactive version, click the "Launch Binder" badge below. This will open the notebook in a free, live cloud environment.
